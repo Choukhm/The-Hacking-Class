@@ -1,6 +1,8 @@
 # README
 
-## Blog Rails
+## Class Rails
+
+Projet Class 
 
 ## Versions
 
